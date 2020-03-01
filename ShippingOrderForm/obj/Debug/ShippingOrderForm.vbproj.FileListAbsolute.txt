@@ -1,0 +1,12 @@
+E:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\bin\Debug\ShippingOrderForm.exe.config
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\bin\Debug\ShippingOrderForm.exe.config
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\bin\Debug\ShippingOrderForm.exe
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\bin\Debug\ShippingOrderForm.pdb
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\bin\Debug\ShippingOrderForm.xml
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\obj\Debug\ShippingOrderForm.vbprojResolveAssemblyReference.cache
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\obj\Debug\ShippingOrderForm.Form1.resources
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\obj\Debug\ShippingOrderForm.Resources.resources
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\obj\Debug\ShippingOrderForm.vbproj.GenerateResource.Cache
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\obj\Debug\ShippingOrderForm.exe
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\obj\Debug\ShippingOrderForm.xml
+D:\NSCC\2018\Semester1\PROG1700\ShippingOrderForm\ShippingOrderForm\obj\Debug\ShippingOrderForm.pdb
